@@ -10,6 +10,8 @@ shell topics
 6. Exit status (e)
 7. inputs
 8. quotes
+9. Redirectors
+10. SEDeditor
 d
 
 ...
