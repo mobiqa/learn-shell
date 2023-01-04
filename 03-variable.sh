@@ -2,9 +2,9 @@
 
 trainer=raghu
 student=venkat
-batch=70
+batch=seventy
 class=devops
-year=2022
+year=ywozerotwotwo
 
 echo Trainer Name - $trainer
 echo Student Name - ${student}
