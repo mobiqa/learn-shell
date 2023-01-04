@@ -2,7 +2,7 @@
 
 trainer=raghu
 student=venkat
-batchno=70
+batch=70
 class=devops
 year=2022
 
