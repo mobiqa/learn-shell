@@ -8,6 +8,6 @@ year=ywozerotwotwo
 
 echo Trainer Name - $trainer
 echo Student Name - ${student}
-echo Batch Number - $batchno
+echo Batch Number - $batch
 echo Class Name - ${class}
 echo Year - ${year}
