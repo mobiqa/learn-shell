@@ -13,5 +13,5 @@ echo Batch Number - ${batch}
 echo Year - ${year}
 
 # DATE
-DATE=$(date+%F)
+DATE=$(date +%F)
 echo hey, Today date is $DATE
