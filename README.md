@@ -10,3 +10,8 @@ shell topics
 6. Exit status (e)
 7. inputs
 8. quotes
+d
+
+...
+
+....
