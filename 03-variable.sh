@@ -11,3 +11,7 @@ echo Student Name - ${student}
 echo Class Name - ${class}
 echo Batch Number - ${batch}
 echo Year - ${year}
+
+# DATE
+DATE=${date +%F}
+echo hey, Today date is $DATE
