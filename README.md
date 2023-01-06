@@ -12,7 +12,7 @@ shell topics
 8. quotes
 9. Redirectors
 10. SEDeditor
-11. 
+11. functions
 d
 
 ...
