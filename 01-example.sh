@@ -13,7 +13,7 @@ cat /etc/passwd | head -2
 
 grep root /etc/passwd
 
-sudo yum remove nginx -y
+#sudo yum remove nginx -y
 
 sudo yum list available | grep nginx
 
