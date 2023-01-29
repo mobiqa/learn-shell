@@ -20,11 +20,11 @@ echo "hello venkat"
 # CYAN -36 - echo -e "\e[36mMESSAGE\e[0m"
 #
 
-echo -e "\e[31mMESSAGE\e[0m"
-echo -e "\e[32mMESSAGE\e[0m"
-echo -e "\e[33mMESSAGE\e[0m"
-echo -e "\e[34mMESSAGE\e[0m"
-echo -e "\e[35mMESSAGE\e[0m"
-echo -e "\e[36mMESSAGE\e[0m"
+echo -e "\e[31mHELLO NCR DEVOPS\e[0m"
+echo -e "\e[32mHELLO NCR DEVOPS\e[0m"
+echo -e "\e[33mHELLO NCR DEVOPS\e[0m"
+echo -e "\e[34mHELLO NCR DEVOPS\e[0m"
+echo -e "\e[35mHELLO NCR DEVOPS\e[0m"
+echo -e "\e[36mHELLO NCR DEVOPS\e[0m"
 
 
