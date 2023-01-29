@@ -17,7 +17,7 @@ DATE=$(date +%F)
 echo hey, Today date is $DATE
 
 # ADD
-ADD=((2+3))
+ADD=$((2+3))
 echo hey, ADDITION IS $ADD
 
 
