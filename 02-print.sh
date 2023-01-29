@@ -1,8 +1,10 @@
 echo hello world
 
+echo venkat
+
 echo "***hello world***"
 
-#echo " hello venkat"
+#echo "hello venkat"
 
 ##color code syntax : echo -e "\e[COLmMESSAGE\e[0m"
 ## RED   -31 - echo -e "\e[31mMESSAGE\e[0m"
