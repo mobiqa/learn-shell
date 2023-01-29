@@ -6,7 +6,7 @@ batch=70
 class=devops
 year=ywozerotwotwo
 
-echo "Trainer Name" - $trainer
+echo Trainer Name - $trainer
 echo Student Name - ${student}
 echo Class Name - ${class}
 echo Batch Number - ${batch}
