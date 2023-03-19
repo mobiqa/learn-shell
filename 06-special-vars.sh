@@ -16,9 +16,6 @@ echo "* - $*"
 echo "@ - $@"
 echo "# - $#"
 
-
-
-
 example $*
 
 exit 1
